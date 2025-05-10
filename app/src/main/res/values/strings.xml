@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_HolaMundo</string>
+    <string name="button">Imprimir</string>
+    <string name="hola">Hola gente!</string>
+    <string name="checkbox">Aceptar términos</string>
+    <string name="buttonSalir">Salir</string>
+</resources>
